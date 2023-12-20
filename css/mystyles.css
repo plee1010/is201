@@ -3,5 +3,13 @@ h1 {
 }
 
 .dif-bg {
-    background-color: navy !important;
+    background-color: rgb(170, 214, 170) !important;
+}
+
+.dif-mainbg {
+    background-color: blanchedalmond !important;
+}
+
+a {
+    color: rgb(170, 214, 170);
 }
